@@ -1,2 +1,3 @@
 # DeploymentPipeline
-Demo on bracnching and comitting.
+
+Demo on branching and comitting.
